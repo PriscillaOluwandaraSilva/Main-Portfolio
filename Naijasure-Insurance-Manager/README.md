@@ -1,4 +1,5 @@
 README.md
+
 NaijaSure Insurance Manager is a simple yet powerful insurance management system designed with the Nigerian context in mind.
 It helps insurance companies, agents, and policyholders handle registrations, products, payments, reminders, and penalties in a structured way.
 
